@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "testing_robotics/1.0.0": {
+        "runtime": {
+          "testing_robotics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testing_robotics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
